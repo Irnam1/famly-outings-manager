@@ -1,0 +1,6 @@
+[submodule "famly-front-end"]
+	path = famly-front-end
+	url = https://github.com/Irnam1/famly-front-end.git
+[submodule "famly-back-end"]
+	path = famly-back-end
+	url = https://github.com/Irnam1/famly-back-end.git
